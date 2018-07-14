@@ -18,7 +18,7 @@ def main():
     print(print_message('Code Base',False))
     print (Module.foo())
 
-if __name__ == "__main__": #a standard piece code wirtten when running a .py file directly
+if __name__ == "__main__": # a standard piece of code written when running a .py file directly
     main()
 
 
